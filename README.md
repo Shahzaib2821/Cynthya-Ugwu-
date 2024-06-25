@@ -1,0 +1,2 @@
+Make a clone website of Cynthya Ugwu to practice Javascript.Explore a modern web design clone inspired by Cynthya Ugwu's awarded website. Featuring smooth scrolling and vibrant animations using GSAP and Locomotive Scroll, this site provides an engaging and dynamic user experience and make a custom cursor div move with cursor.
+This is not responsive because the main focus of making this website to practice javascript.
